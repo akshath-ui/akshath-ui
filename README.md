@@ -16,7 +16,7 @@
   <p align='center'>
     <a href="https://www.linkedin.com/in/akshath-e-anoob-13568a323/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
     <a href="https://x.com/AkshathSecond"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
-    <a href="mailto:akshatheanoob@gmail.com."><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
+    <a href="mailto:akshatheanoob@gmail.com"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
     <a href="https://www.instagram.com/polisanam3232/"><img height="30" src=https://www.edigitalagency.com.au/wp-content/uploads/Instagram-logo-PNG-small-size.png                                                   
   </p>
 </div>
