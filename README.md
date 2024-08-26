@@ -3,7 +3,8 @@
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
-- 👋 Hi, I’m @akshath-ui AKA Akshath E Anoob
+  
+ - 👋 Hi, I’m @akshath-ui AKA Akshath E Anoob
 - 👀 I’m interested in exploring things 
 - 🌱 I’m currently learning the course Computer Science at GHSS Manjapara
 - 💞️ I’m looking to collaborate on anything interesting espacially in games.I play Valorant Free Fire etc very often so Contact me if u can play with me
