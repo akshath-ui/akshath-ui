@@ -1,21 +1,24 @@
+<div align="center">
+<img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" align="center">
+</div>
 <!-- "Hero" Header -->
 <div align="center">
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
 
-  <div align='center'>
-  <p align='center'>
-    <a href="https://www.linkedin.com/in/akshath-second-13568a323/)"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-    <a href="https://x.com/AkshathSecond"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
-    <a href="mailto:akshatheanoob@gmail.com.io"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
-  </p>
-</div>
+
 
   
  - 👋 Hi, I’m @akshath-ui AKA Akshath E Anoob
 - 👀 I’m interested in exploring things 
 - 🌱 I’m currently learning the course Computer Science at GHSS Manjapara
 - 💞️ I’m looking to collaborate on anything interesting espacially in games.I play Valorant Free Fire etc very often so Contact me if u can play with me
-- 📫 How to reach me INSTA-polisanam3232 TELEGRAM-@Unseenbm FACEBOOK-Akshath E Anoob TWITTER-@AkshathSecond I often uses insta so msg me in it 
+- 📫 How to reach me INSTA-polisanam3232 TELEGRAM-@Unseenbm FACEBOOK-Akshath E Anoob TWITTER-@AkshathSecond I often uses insta so msg me in it   <div align='center'>
+  <p align='center'>
+    <a href="https://www.linkedin.com/in/akshath-second-13568a323/)"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+    <a href="https://x.com/AkshathSecond"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+    <a href="mailto:akshatheanoob@gmail.com.io"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
+  </p>
+</div>
 - 😄 Pronouns: UnseenBM  |||  ROG AZE  |||  POLISANAM
 - ⚡ Fun fact: You are stupid 👍
 
