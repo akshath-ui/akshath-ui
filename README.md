@@ -23,13 +23,8 @@
 - 😄 Pronouns: UnseenBM  |||  ROG AZE  |||  POLISANAM
 - ⚡ Fun fact: You are stupid 👍
 <hr>
+ 
 
-<div align="center">
-<p>Write something nice in my guest book:</p>
-<a href="https://github.com/akshath-ui/akshath-ui/issues"><img src="https://github.com/fnky/fnky/raw/fnky/img/guestbook.gif" alt="Guest book" align="center"></a>
-</div>
-
-<hr>
 
 &nbsp;<div align="center">
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/312gfsjg6eo5fpka7beo4lmqbfzy?si=1ba0aa4d65f2462b)
@@ -71,7 +66,12 @@ Image (svg)   0 secs          ░░░░░░░░░░░░░░░░�
 ⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
 
+<div align="center">
+<p>Write something nice in my guest book:</p>
+<a href="https://github.com/akshath-ui/akshath-ui/issues"><img src="https://github.com/fnky/fnky/raw/fnky/img/guestbook.gif" alt="Guest book" align="center"></a>
+</div>
 
+<hr>
 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=akshath-ui&show_icons=true&theme=gotham" alt="akshath-ui" />
