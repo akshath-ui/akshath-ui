@@ -83,7 +83,7 @@ Image (svg)   0 secs          ░░░░░░░░░░░░░░░░�
 </div>
 </div>
 
-![Visitor Count](https://profile-counter.glitch.me/brunnerlivio/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/akshath-ui/count.svg)
 
 
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
