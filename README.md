@@ -9,6 +9,7 @@
     <a href="mailto:akshatheanoob@gmail.com.io"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
   </p>
 </div>
+
   
  - 👋 Hi, I’m @akshath-ui AKA Akshath E Anoob
 - 👀 I’m interested in exploring things 
@@ -17,6 +18,11 @@
 - 📫 How to reach me INSTA-polisanam3232 TELEGRAM-@Unseenbm FACEBOOK-Akshath E Anoob TWITTER-@AkshathSecond I often uses insta so msg me in it 
 - 😄 Pronouns: UnseenBM  |||  ROG AZE  |||  POLISANAM
 - ⚡ Fun fact: You are stupid 👍
+
+- <strong>Today's developer quotes</strong>
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=swift&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+
 <!---
 akshath-ui/akshath-ui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
