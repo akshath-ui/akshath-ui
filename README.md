@@ -89,8 +89,6 @@ Image (svg)   0 secs          ░░░░░░░░░░░░░░░░�
 </div>
 </div>
 
-![Visitor Count](https://profile-counter.glitch.me/akshath-ui/count.svg)
-
 
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
 <!-- "margin-right: whatever;" -->
@@ -100,4 +98,12 @@ Image (svg)   0 secs          ░░░░░░░░░░░░░░░░�
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 
 </div>
-
+<p align="left">
+  <a href="https://github.com/akshath-ui/akshath-ui">
+    <img src="https://komarev.com/ghpvc/?username=akshath-ui" alt="page views" />
+  </a>
+  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
+    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
+  </a>
+    <a href="https://github.com/akshath-ui?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/akshath-ui?style=flat&logo=github">
