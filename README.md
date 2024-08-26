@@ -2,6 +2,13 @@
 <div align="center">
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
 
+  <div align='center'>
+  <p align='center'>
+    <a href="https://www.linkedin.com/in/akshath-second-13568a323/)"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+    <a href="https://x.com/AkshathSecond"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+    <a href="mailto:akshatheanoob@gmail.com.io"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
+  </p>
+</div>
   
  - 👋 Hi, I’m @akshath-ui AKA Akshath E Anoob
 - 👀 I’m interested in exploring things 
@@ -44,3 +51,23 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=akshath-ui&show_icons=true&theme=gotham" alt="akshath-ui" />
+
+<!-- Footer -->
+
+<div align="center">
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
+
+![Visitor Count](https://profile-counter.glitch.me/brunnerlivio/count.svg)
+
+
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
+<!-- "margin-right: whatever;" -->
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
+
+</div>
+
