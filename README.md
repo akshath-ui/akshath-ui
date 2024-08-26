@@ -3,8 +3,6 @@
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
-
-
 - 👋 Hi, I’m @akshath-ui AKA Akshath E Anoob
 - 👀 I’m interested in exploring things 
 - 🌱 I’m currently learning the course Computer Science at GHSS Manjapara
