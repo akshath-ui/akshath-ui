@@ -1,8 +1,7 @@
 <!-- "Hero" Header -->
 <div align="center">
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
-  <br />
-  <br />
+
   
  - 👋 Hi, I’m @akshath-ui AKA Akshath E Anoob
 - 👀 I’m interested in exploring things 
@@ -21,8 +20,8 @@ for freelance work? do reach, [email](mailto:akshatheanoob@gmail.com) :)
 <!--START_SECTION:waka-->
 
 ```txt
-Games(min.)   50 mins         ██████████████████▒░░░░░░   73.88 %
-School        7 hrs 30 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.08 %
+School        7 hrs 30 mins   ██████████████████▒░░░░░░   73.88 %
+Games         30 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.08 %
 C++           25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
 Image (svg)   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
