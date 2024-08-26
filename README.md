@@ -31,6 +31,12 @@
 
 <hr>
 
+&nbsp;<div align="center">
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/312gfsjg6eo5fpka7beo4lmqbfzy?si=1ba0aa4d65f2462b)
+</div>
+
+
+
 - <h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> <strong>Today's developer quotes</strong>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=swift&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
