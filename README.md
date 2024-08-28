@@ -60,7 +60,7 @@ Image (svg)   0 secs          ░░░░░░░░░░░░░░░░�
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
-🏆  8,004 Karma and 50,034,100 Aura points respectively       
+🏆  8,004 Karma and 50,034,100 Aura points 
 🌸  Completed 0 tasks today           
 ✅  Completed 673 tasks so far           
 ⏳  Longest streak is 10 days
@@ -115,4 +115,4 @@ Image (svg)   0 secs          ░░░░░░░░░░░░░░░░�
     <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
   </a>
     <a href="https://github.com/akshath-ui?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/akshath-ui?style=flat&logo=github">
+  
