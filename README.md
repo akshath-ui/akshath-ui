@@ -11,8 +11,8 @@
  - 👋 Hi, I’m @akshath-ui AKA Akshath E Anoob
 - 👀 I’m interested in exploring things 
 - 🌱 I’m currently learning the course Computer Science at GHSS Manjapara
-- 💞️ I’m looking to collaborate on anything interesting espacially in games.I play Valorant Free Fire etc very often so Contact me if u can play with me
-- 📫 How to reach me INSTA-polisanam3232 TELEGRAM-@Unseenbm FACEBOOK-Akshath E Anoob TWITTER-@AkshathSecond I often uses insta so msg me in it   <div align='center'>
+- 💞️ I’m looking to collaborate on anything interesting espacially in games.
+- 📫 How to reach me    <div align='center'>
   <p align='center'>
     <a href="https://www.linkedin.com/in/akshath-e-anoob-13568a323/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
     <a href="https://x.com/AkshathSecond"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
@@ -20,7 +20,9 @@
     <a href="https://www.instagram.com/polisanam3232/"><img height="30" src=https://www.edigitalagency.com.au/wp-content/uploads/Instagram-logo-PNG-small-size.png                                                   
   </p>
 </div>
+
 - 😄 Pronouns: UnseenBM  |||  ROG AZE  |||  POLISANAM
+
 - ⚡ Fun fact: You are stupid 👍
 <hr>
  
