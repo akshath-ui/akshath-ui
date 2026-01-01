@@ -23,7 +23,7 @@
 
 - 😄 Pronouns: UnseenBM  |||  ROG AZE  |||  POLISANAM
 
-- ⚡ Fun fact: You are stupid 👍
+- ⚡ Fun fact: For the first time in 2025, TypeScript overtook JavaScript and Python as the most used language on GitHub. Bold move for type safety fans!
 <hr>
  
 
