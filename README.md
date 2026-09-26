@@ -157,9 +157,11 @@ goal:
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
+<<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=akshath-ui&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" alt="GitHub Trophies">
+<img src="./assets/github-trophy.svg" alt="GitHub Trophies">
+
+</div>
 
 </div>
 
@@ -177,13 +179,10 @@ goal:
 
 ## 📈 GitHub Activity
 
+
 <div align="center">
 
-<a href="https://github.com/akshath-ui">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akshath-ui&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph">
-
-</a>
+<img src="./assets/github-activity.svg" alt="GitHub Activity Graph">
 
 </div>
 
