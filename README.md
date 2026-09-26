@@ -1,113 +1,299 @@
 <div align="center">
-<img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" align="center">
+
+<img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" width="80" alt="Fan">
+
+# 👋 Hey, I'm **Akshath E Anoob**
+   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+
+### `@akshath-ui`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Engineering+Student+%7C+Developer;Learning+Python+%7C+CAD+%7C+Git;Building%2C+Breaking%2C+Learning%2C+Repeating;Welcome+to+my+little+corner+of+GitHub!" alt="Typing SVG" />
+
+<br>
+
+<a href="https://github.com/akshath-ui">
+  <img src="https://komarev.com/ghpvc/?username=akshath-ui&style=for-the-badge&color=blueviolet" alt="Profile views">
+</a>
+
 </div>
-<!-- "Hero" Header -->
+
+---
+
+## 🧠 About Me
+
+```yaml
+name: Akshath E Anoob
+username: akshath-ui
+role: Engineering Student
+mindset: Build → Break → Learn → Repeat
+
+currently_learning:
+  - Python
+  - Git & GitHub
+  - CAD / Engineering Design
+  - Problem Solving
+  - Programming Fundamentals
+
+interests:
+  - Engineering
+  - Automotive Technology
+  - Software
+  - Electronics
+  - Open Source
+  - Making random ideas actually work
+
+goal:
+  "Turn curiosity into useful projects."
+```
+
+---
+
+## 🚀 What I'm Working On
+
+* 🐍 Improving my **Python & programming fundamentals**
+* ⚙️ Learning **CAD and engineering design**
+* 💻 Building projects and experiments through GitHub
+* 🧠 Strengthening my problem-solving skills
+* 🔧 Exploring the intersection of **engineering + technology**
+
+> **I don't want to just learn tools. I want to build things with them.**
+
+---
+
+## 🛠️ Tech & Engineering Toolbox
+
+### 💻 Programming
+
+<p align="left">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+</p>
+
+### ⚙️ Tools & Platforms
+
+<p align="left">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+</p>
+
+### 🔩 Engineering
+
+<p align="left">
+<img src="https://img.shields.io/badge/CAD-Engineering-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Mechanical_Design-555555?style=for-the-badge">
+<img src="https://img.shields.io/badge/3D_Printing-FF6C37?style=for-the-badge">
+</p>
+
+---
+
+## 🌐 Find Me Online
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/akshath-e-anoob-13568a323/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://x.com/Akshath_E_Anoob">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
+</a>
+
+<a href="https://www.instagram.com/akshath_.__/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href="https://www.youtube.com/channel/UCTGh4YvVYnXFWxTrGvHLxwQ">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
+
+<a href="mailto:akshatheanoob@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://github.com/akshath-ui">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</p>
+
+---
+
+## 🎵 Currently Vibing To
+
 <div align="center">
-  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
 
+<a href="https://open.spotify.com/user/312gfsjg6eo5fpka7beo4lmqbfzy"> <img src="https://img.shields.io/badge/🎧%20Listen%20on%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Listen on Spotify"> </a>
 
+<br><br>
 
-  
- - 👋 Hi, I’m @akshath-ui AKA Akshath E Anoob
-- 👀 I’m interested in anything 
-- 🌱 I’m currently learning something 
-- 💞️ I’m looking to collaborate on anything 
-- 📫 How to reach me    <div align='center'>
-  <p align='center'>
-    <a href="https://www.linkedin.com/in/akshath-e-anoob-13568a323/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-    <a href="https://x.com/Akshath_E_Anoob"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
-    <a href="mailto:akshatheanoob@gmail.com"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
-    <a href="https://www.instagram.com/akshath_.__/"><img height="30" src=https://www.edigitalagency.com.au/wp-content/uploads/Instagram-logo-PNG-small-size.png                                                   
-  </p>
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/@me/coolboy_ak) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61555297606717)  [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/AlarmingLaw9246) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/EAkshath) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCTGh4YvVYnXFWxTrGvHLxwQ) 
-
-</div>
-&nbsp;<div align="center">
-	
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/312gfsjg6eo5fpka7beo4lmqbfzy?si=1ba0aa4d65f2462b)
+<a href="https://open.spotify.com/user/312gfsjg6eo5fpka7beo4lmqbfzy"> <strong>🎶 My Spotify Profile</strong> </a>
 
 </div>
 
-- 😄 Pronouns: UnseenBM  |||  ROG AZE  |||  POLISANAM
+---
 
-- ⚡ Fun fact: For the first time in 2025, TypeScript overtook JavaScript and Python as the most used language on GitHub. Bold move for type safety fans!
-<hr>
- 
+## 📊 GitHub Stats
 
-- <h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> <strong>Today's developer quotes</strong>
+<div align="center">
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=swift&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=akshath-ui&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github">
 
-<!---
-akshath-ui/akshath-ui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-for freelance work? do reach, [email](mailto:akshatheanoob@gmail.com) :)
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshath-ui&layout=compact&theme=tokyonight&hide_border=true">
 
+</div>
 
+<br>
 
-<h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+<div align="center">
 
-<a href="https://www.buymeacoffee.com/akshath" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<img src="https://streak-stats.demolab.com?user=akshath-ui&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 
-🚧 **my todoist stats:**
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=akshath-ui&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" alt="GitHub Trophies">
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake">
+
+</div>
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akshath-ui\&theme=tokyo-night\&hide_border=true)](https://github.com/akshath-ui)
+
+</div>
+
+---
+
+## 💡 Random Corner of My Brain
+
+> *"The best way to learn something is to build something stupid with it first."*
+
+```text
+Idea
+ ↓
+Try
+ ↓
+Break it
+ ↓
+Google it
+ ↓
+Fix it
+ ↓
+Learn something
+ ↓
+Build something better
+```
+
+---
+
+## 🚧 Todoist Stats
+
 <!-- TODO-IST:START -->
-🏆  8,004 Karma and 50,034,100 Aura points 
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
+
+🏆 **8,004 Karma**
+✨ **50,034,100 Aura points**
+✅ **673 tasks completed**
+🔥 **10 day longest streak**
+
 <!-- TODO-IST:END -->
 
-<div align="center">
-<p>Write something nice in my guest book:</p>
-<a href="https://github.com/akshath-ui/akshath-ui/issues"><img src="https://github.com/fnky/fnky/raw/fnky/img/guestbook.gif" alt="Guest book" align="center"></a>
-</div>
+---
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Uber](https://img.shields.io/badge/Uber-%23000000.svg?style=for-the-badge&logo=Uber&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white)
-<hr>
-
-📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=akshath-ui&show_icons=true&theme=gotham" alt="akshath-ui" />
-</div>
-<div align="center">
-	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
-</div>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adorabled4/adorabled4/output/github-contribution-grid-snake.svg">
-</picture>
-
-<!-- Footer -->
+## ☕ Support My Experiments
 
 <div align="center">
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-<br />
+<p>
+If something I build helped you,
+you can buy me a coffee/tea ☕
+</p>
+
+<a href="https://www.buymeacoffee.com/akshath">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" width="180" alt="Buy Me A Coffee">
+</a>
+
+</div>
+
+---
+
+## 📖 Guest Book
+
 <div align="center">
-<p>Have a good day!</p>
-<div>
-<img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" align="center">
-</div>
-</div>
 
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
-<!-- "margin-right: whatever;" -->
-<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
-<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
+<p>Have something nice to say?</p>
+
+<a href="https://github.com/akshath-ui/akshath-ui/issues">
+<img src="https://github.com/fnky/fnky/raw/fnky/img/guestbook.gif" width="180" alt="Guest Book">
+</a>
 
 </div>
-<p align="left">
-  <a href="https://github.com/akshath-ui/akshath-ui">
-    <img src="https://komarev.com/ghpvc/?username=akshath-ui" alt="page views" />
-  </a>
-  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
-    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
-  </a>
-    <a href="https://github.com/akshath-ui?tab=followers">
-  
+
+---
+
+## 👨‍💻 For Freelance / Collaboration
+
+<div align="center">
+
+📩 **Want to build something together?**
+
+<a href="mailto:akshatheanoob@gmail.com">
+<strong>Send me an email</strong>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img height="120" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="Thanks for visiting">
+
+### ✨ Thanks for stopping by!
+
+<img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" width="50" alt="Smiley">
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" height="30" alt="Notepad">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" height="30" alt="Internet Explorer">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" height="30" alt="No Frames">
+
+<br><br>
+
+<a href="https://github.com/akshath-ui/akshath-ui">
+<img src="https://komarev.com/ghpvc/?username=akshath-ui&label=Visitors&color=blueviolet&style=flat-square" alt="Visitors">
+</a>
+
+</div>
+
+<!--
+✨ akshath-ui / akshath-ui
+
+This repository is special because its README.md
+appears on your GitHub profile.
+
+Keep building.
+-->
