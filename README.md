@@ -20,7 +20,7 @@
     <a href="https://www.instagram.com/akshath_.__/"><img height="30" src=https://www.edigitalagency.com.au/wp-content/uploads/Instagram-logo-PNG-small-size.png                                                   
   </p>
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/coolboy_ak) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=61555297606717)  [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/AlarmingLaw9246) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/EAkshath) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@AkshathSecond) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/coolboy_ak) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=61555297606717)  [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/AlarmingLaw9246) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/EAkshath) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCTGh4YvVYnXFWxTrGvHLxwQ) 
 
 </div>
 &nbsp;<div align="center">
