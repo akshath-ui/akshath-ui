@@ -157,11 +157,9 @@ goal:
 
 ## 🏆 GitHub Trophies
 
-<<div align="center">
+<div align="center">
 
-<img src="./assets/github-trophy.svg" alt="GitHub Trophies">
-
-</div>
+<img src="./assets/github-trophy.svg" alt="GitHub Trophies" width="700">
 
 </div>
 
@@ -179,10 +177,9 @@ goal:
 
 ## 📈 GitHub Activity
 
-
 <div align="center">
 
-<img src="./assets/github-activity.svg" alt="GitHub Activity Graph">
+<img src="./assets/github-activity.svg" alt="GitHub Activity Graph" width="700">
 
 </div>
 
