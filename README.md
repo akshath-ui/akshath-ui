@@ -17,7 +17,7 @@
     <a href="https://www.linkedin.com/in/akshath-e-anoob-13568a323/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
     <a href="https://x.com/Akshath_E_Anoob"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
     <a href="mailto:akshatheanoob@gmail.com"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
-    <a href="https://www.instagram.com/polisanam3232/"><img height="30" src=https://www.edigitalagency.com.au/wp-content/uploads/Instagram-logo-PNG-small-size.png                                                   
+    <a href="https://www.instagram.com/akshath_.__/"><img height="30" src=https://www.edigitalagency.com.au/wp-content/uploads/Instagram-logo-PNG-small-size.png                                                   
   </p>
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/coolboy_ak) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=61555297606717)  [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/AlarmingLaw9246) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/EAkshath) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@AkshathSecond) 
