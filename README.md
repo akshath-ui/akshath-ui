@@ -139,9 +139,9 @@ goal:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=akshath-ui&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=akshath-ui&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshath-ui&layout=compact&theme=tokyonight&hide_border=true">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshath-ui&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
 
 </div>
 
@@ -149,7 +149,7 @@ goal:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=akshath-ui&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+<img src="https://streak-stats.demolab.com/?user=akshath-ui&theme=tokyonight&hide_border=true&mode=daily" alt="GitHub Streak">
 
 </div>
 
@@ -179,7 +179,11 @@ goal:
 
 <div align="center">
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akshath-ui\&theme=tokyo-night\&hide_border=true)](https://github.com/akshath-ui)
+<a href="https://github.com/akshath-ui">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akshath-ui&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph">
+
+</a>
 
 </div>
 
